@@ -32,7 +32,9 @@ This is a simple Quiz Application developed in Java using Swing for the graphica
    ```
 
 ## Screenshots
-
+![Main Screen](Screenshots/main-Picture1.png)
+![Question Example](Screenshots/Picture2.png)
+![Result Screen](Screenshots/Picture2.png)
 ## Code Structure
 - `Question` (Abstract class): Represents a generic question.
 - `MultipleChoiceQuestion` (Extends `Question`): Handles multiple-choice questions.
